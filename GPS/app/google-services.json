@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141396616387",
+    "project_id": "gps-auth-c7b5f",
+    "storage_bucket": "gps-auth-c7b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141396616387:android:382742edbfa85dad5d6e76",
+        "android_client_info": {
+          "package_name": "com.location.gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvepPop1DqsYk9irkTFji4OeXtWnAe_3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
